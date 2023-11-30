@@ -1,3 +1,6 @@
+Hello
+My Discord - JoelCoutu#8793
+
 # lottery.aleo
 
 ## Run Guide
